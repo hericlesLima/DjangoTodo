@@ -1,5 +1,3 @@
-import re
-from turtle import st
 from app.serializers import TodoSerializer #para descrever os metodos a serem acessados na view
 from app.models import Todo
 
